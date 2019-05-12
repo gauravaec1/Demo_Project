@@ -4,7 +4,7 @@ pipeline {
             stage('Build') {
             steps {
                 echo 'Building the code..'
-                git https://github.com/gauravaec1/Hello.git
+               
             }
         }
 
